@@ -3,5 +3,12 @@ body{
 }
 
 .container{
-	background-color: grey;
+	margin-top: 1em;
+	padding: 2em;
+	background-color: rgba(0,0,0,0.2)
+}
+
+.item{
+	max-height:20%; 
+	min-height:20%;
 }

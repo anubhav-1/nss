@@ -18,6 +18,7 @@ body {
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
+    z-index: 1000
 }
 
 .sidenav a {
